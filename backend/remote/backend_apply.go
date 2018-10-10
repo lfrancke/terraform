@@ -369,6 +369,4 @@ will cancel the remote apply if its still pending. If the apply started it
 will stop streaming the logs, but will not stop the apply running remotely.
 To view this run in a browser, visit:
 https://%s/app/%s/%s/runs/%s[reset]
-
-Waiting for the apply to start...
 `
